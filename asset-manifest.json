@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/slovnik/static/css/main.2e090cb2.css",
+    "main.js": "/slovnik/static/js/main.57972b09.js",
+    "static/media/no bad.jpg": "/slovnik/static/media/no bad.520d652ee17d2c34812a.jpg",
+    "static/media/Checken.jpg": "/slovnik/static/media/Checken.71ec8d01f75677fd0e95.jpg",
+    "static/media/Udareniy.jpg": "/slovnik/static/media/Udareniy.6a71d68801e9631c5448.jpg",
+    "static/media/finaly.jpg": "/slovnik/static/media/finaly.739ce4d162b6ccf5ea31.jpg",
+    "static/media/Cool.jpg": "/slovnik/static/media/Cool.3ef9f279b05dbc1a3060.jpg",
+    "static/media/I watch.jpg": "/slovnik/static/media/I watch.e430c8d2a2486d93cf5d.jpg",
+    "index.html": "/slovnik/index.html",
+    "main.2e090cb2.css.map": "/slovnik/static/css/main.2e090cb2.css.map",
+    "main.57972b09.js.map": "/slovnik/static/js/main.57972b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e090cb2.css",
+    "static/js/main.57972b09.js"
+  ]
+}
